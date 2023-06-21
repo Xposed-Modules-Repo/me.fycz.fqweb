@@ -1,10 +1,12 @@
 # FQWeb
-[![GitHub license](https://img.shields.io/github/license/duzhaokun123/FuckCainiao?style=flat-square)](https://github.com/fengyuecanzhu/FQWeb/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/fengyuecanzhu/FQWeb?style=flat-square)](https://github.com/fengyuecanzhu/FQWeb/blob/master/LICENSE)
 ![Android SDK min 24](https://img.shields.io/badge/Android%20SDK-%3E%3D%2024-brightgreen?style=flat-square&logo=android)
 ![Android SDK target 33](https://img.shields.io/badge/Android%20SDK-target%2033-brightgreen?style=flat-square&logo=android)
 ![Xposed Module](https://img.shields.io/badge/Xposed-Module-blue?style=flat-square)
 
 番茄小说Web服务
+
+反馈QQ群：862947444
 
 ## 使用
 Web服务可在番茄小说设置界面开启，默认运行在9999端口
