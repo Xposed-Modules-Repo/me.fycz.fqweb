@@ -50,6 +50,16 @@ params：和番茄保持一致
 ## 下载
 从[RELEASE](https://github.com/fengyuecanzhu/FQWeb/releases/latest)下载
 
+## 常见问题
+
+1、提示"Failed to connect to localhost/127.0.0.1:9999"怎么办？
+
+答：番茄没有打开或者后台被杀死，重新打开番茄即可
+
+2、提示"failed to connect to localhost/127.0.0.1 (port 9999) from /127.0.0.1 (port xxxxx)"怎么办？
+
+答：番茄后台被冻结了，请重新切换番茄到前台。将番茄后台改成无限制可能解决这个问题
+
 ## 免责声明
 * 该Xposed模块仅供学习交流使用，使用者必须自行承担使用该模块所带来的风险和责任。
 
